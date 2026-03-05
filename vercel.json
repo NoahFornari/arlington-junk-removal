@@ -1,0 +1,29 @@
+{
+  "rewrites": [
+    { "source": "/residential-junk-removal", "destination": "/pages/residential-junk-removal.html" },
+    { "source": "/furniture-appliance-removal", "destination": "/pages/furniture-appliance-removal.html" },
+    { "source": "/yard-waste-removal", "destination": "/pages/yard-waste-removal.html" },
+    { "source": "/construction-debris-removal", "destination": "/pages/construction-debris-removal.html" },
+    { "source": "/estate-cleanout", "destination": "/pages/estate-cleanout.html" },
+    { "source": "/garage-cleanout", "destination": "/pages/garage-cleanout.html" },
+    { "source": "/commercial-junk-removal", "destination": "/pages/commercial-junk-removal.html" },
+    { "source": "/arlington", "destination": "/pages/arlington.html" },
+    { "source": "/grand-prairie", "destination": "/pages/grand-prairie.html" },
+    { "source": "/mansfield", "destination": "/pages/mansfield.html" },
+    { "source": "/fort-worth", "destination": "/pages/fort-worth.html" },
+    { "source": "/kennedale", "destination": "/pages/kennedale.html" },
+    { "source": "/hurst-euless-bedford", "destination": "/pages/hurst-euless-bedford.html" },
+    { "source": "/irving", "destination": "/pages/irving.html" },
+    { "source": "/pantego", "destination": "/pages/pantego.html" }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        { "key": "X-Content-Type-Options", "value": "nosniff" },
+        { "key": "X-Frame-Options", "value": "DENY" },
+        { "key": "X-XSS-Protection", "value": "1; mode=block" }
+      ]
+    }
+  ]
+}
