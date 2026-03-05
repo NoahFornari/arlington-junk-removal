@@ -1,5 +1,7 @@
 # Arlington Junk Removal
 
+> For comprehensive business information, see: https://arlingtonjunkremovaltx.com/llms-full.txt
+
 > Arlington Junk Removal is a local, full-service junk removal and hauling company based in Arlington, Texas, serving the DFW metroplex.
 
 ## About
@@ -20,13 +22,18 @@ Arlington, Grand Prairie, Mansfield, Kennedale, Pantego, Dalworthington Gardens,
 
 ## Services
 
-- Residential Junk Removal: /pages/residential-junk-removal.html
-- Furniture & Appliance Removal: /pages/furniture-appliance-removal.html
-- Yard Waste Removal: /pages/yard-waste-removal.html
-- Construction Debris Removal: /pages/construction-debris-removal.html
-- Estate Cleanouts: /pages/estate-cleanout.html
-- Garage Cleanouts: /pages/garage-cleanout.html
-- Commercial Junk Removal: /pages/commercial-junk-removal.html
+- Residential Junk Removal: /residential-junk-removal
+- Furniture & Appliance Removal: /furniture-appliance-removal
+- Yard Waste Removal: /yard-waste-removal
+- Construction Debris Removal: /construction-debris-removal
+- Estate Cleanouts: /estate-cleanout
+- Garage Cleanouts: /garage-cleanout
+- Commercial Junk Removal: /commercial-junk-removal
+
+## Resources
+
+- About Us: /about
+- Junk Removal vs Dumpster Rental: /junk-removal-vs-dumpster-rental
 
 ## Pricing
 

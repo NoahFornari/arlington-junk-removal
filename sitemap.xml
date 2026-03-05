@@ -6,77 +6,87 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/residential-junk-removal.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://arlingtonjunkremovaltx.com/residential-junk-removal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/furniture-appliance-removal.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/furniture-appliance-removal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/yard-waste-removal.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/yard-waste-removal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/construction-debris-removal.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/construction-debris-removal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/estate-cleanout.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/estate-cleanout</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/garage-cleanout.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/garage-cleanout</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/commercial-junk-removal.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/commercial-junk-removal</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/arlington.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/junk-removal-vs-dumpster-rental</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://arlingtonjunkremovaltx.com/arlington</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/grand-prairie.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/grand-prairie</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/mansfield.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/mansfield</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/fort-worth.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/fort-worth</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/kennedale.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/kennedale</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/hurst-euless-bedford.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/hurst-euless-bedford</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/irving.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/irving</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://arlingtonjunkremovaltx.com/pages/pantego.html</loc>
+    <loc>https://arlingtonjunkremovaltx.com/pantego</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

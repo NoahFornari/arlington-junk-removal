@@ -14,7 +14,9 @@
     { "source": "/kennedale", "destination": "/pages/kennedale.html" },
     { "source": "/hurst-euless-bedford", "destination": "/pages/hurst-euless-bedford.html" },
     { "source": "/irving", "destination": "/pages/irving.html" },
-    { "source": "/pantego", "destination": "/pages/pantego.html" }
+    { "source": "/pantego", "destination": "/pages/pantego.html" },
+    { "source": "/about", "destination": "/pages/about.html" },
+    { "source": "/junk-removal-vs-dumpster-rental", "destination": "/pages/junk-removal-vs-dumpster-rental.html" }
   ],
   "headers": [
     {
