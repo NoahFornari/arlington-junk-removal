@@ -433,6 +433,14 @@ p {
   z-index: 1;
 }
 
+.hero__logo {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  margin-bottom: 20px;
+  filter: drop-shadow(0 4px 20px rgba(0,0,0,0.3));
+}
+
 .hero__content {
   padding: 40px 0;
 }
@@ -937,6 +945,13 @@ p {
   margin-bottom: 40px;
 }
 
+.footer__logo {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  margin-bottom: 12px;
+}
+
 .footer__brand p {
   font-size: 0.9rem;
   color: var(--gray-400);
@@ -1299,12 +1314,13 @@ p {
 .hero__floating-label { font-size: 0.75rem; color: var(--gray-400); }
 
 /* Hero text stagger reveal */
-.hero__badge, .hero__title, .hero__subtitle, .hero__actions, .hero__stats {
+.hero__logo, .hero__badge, .hero__title, .hero__subtitle, .hero__actions, .hero__stats {
   opacity: 0;
   animation: heroReveal 0.8s ease forwards;
 }
-.hero__badge { animation-delay: 0.1s; }
-.hero__title { animation-delay: 0.25s; }
+.hero__logo { animation-delay: 0s; }
+.hero__badge { animation-delay: 0.15s; }
+.hero__title { animation-delay: 0.3s; }
 .hero__subtitle { animation-delay: 0.4s; }
 .hero__actions { animation-delay: 0.55s; }
 .hero__stats { animation-delay: 0.7s; }
